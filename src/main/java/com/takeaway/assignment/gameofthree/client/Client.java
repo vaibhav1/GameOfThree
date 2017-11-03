@@ -14,7 +14,7 @@ import com.takeaway.assignment.gameofthree.util.Constants;
 /**
  * 
  * @author vaibhav
- * Client class extending {@link WebSocketClient}
+ * Client class extending {@link WebSocketClient} .
  */
 public class Client extends WebSocketClient {
 
