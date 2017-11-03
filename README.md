@@ -12,7 +12,7 @@
 
 ## Documentation
 
-This application simulates the Game of Three. It is played between two players talking over a network. It is like a client-server interaction. One players starts the game and waits till another player joins. The program exits when a player receives 1 as the message and is declared winner. Details on how to play the game can be read [here](Game of Three - Coding Challenge JAVA.pdf)
+This application simulates the Game of Three. It is played between two players talking over a network. It is like a client-server interaction. One players starts the game and waits till another player joins. The program exits when a player receives 1 as the message and is declared winner. Details on how to play the game can be read [here](https://github.com/vaibhav1/GameOfThree/blob/master/Game%20of%20Three%20-%20Coding%20Challenge%20JAVA.pdf)
 
 
 The tool receives as input:
