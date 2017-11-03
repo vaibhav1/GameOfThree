@@ -11,6 +11,11 @@ import org.java_websocket.handshake.ServerHandshake;
 import com.takeaway.assignment.gameofthree.util.ApplicationUtils;
 import com.takeaway.assignment.gameofthree.util.Constants;
 
+/**
+ * 
+ * @author vaibhav
+ * Client class extending {@link WebSocketClient}
+ */
 public class Client extends WebSocketClient {
 
 	private static final Draft draft = new Draft_6455();

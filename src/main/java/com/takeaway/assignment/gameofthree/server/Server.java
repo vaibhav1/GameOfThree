@@ -10,6 +10,12 @@ import org.java_websocket.server.WebSocketServer;
 import com.takeaway.assignment.gameofthree.util.ApplicationUtils;
 import com.takeaway.assignment.gameofthree.util.Constants;
 
+/**
+ * 
+ * @author vaibhav
+ * Server class extending {@link WebSocketServer}
+ *
+ */
 public class Server extends WebSocketServer {
 	private static final Random random = new Random();
 
